@@ -5,12 +5,12 @@ Imports System.Runtime.InteropServices
 ' General Information about an assembly is controlled through the following 
 ' set of attributes. Change these attribute values to modify the information
 ' associated with an assembly.
-<Assembly: AssemblyTitle("CsWinFormsBlackApp")>
-<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyTitle("Sabre")>
+<Assembly: AssemblyDescription("A Witcher 3 mod manager")>
 <Assembly: AssemblyConfiguration("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("CsWinFormsBlackApp")>
-<Assembly: AssemblyCopyright("Copyright ©  2017")>
+<Assembly: AssemblyCompany("Zenvetive Studios")>
+<Assembly: AssemblyProduct("Sabre")>
+<Assembly: AssemblyCopyright("Copyright © Zenventive Studios 2017")>
 <Assembly: AssemblyTrademark("")>
 <Assembly: AssemblyCulture("")>
 
